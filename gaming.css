@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+body{
+    margin-bottom: 2000px   ;
+    
+}
+
+offer_image img:hover{
+    height: 200px;
+    width: 200px;    
+}
+
+li{
+    list-style-type: none;
+    color: #d2d2d2;
+    font-size: 14px;
+    font-weight: 600;
+}
+
